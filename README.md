@@ -1,86 +1,64 @@
-# React JS University Website Project | Tutorial for Beginners
+📚 SRI University Website – React Project
+This is a fully responsive university website built using React JS and Bootstrap 5.
+It contains multiple sections like Home, About, Courses, Blog, and Contact, making it suitable for educational institutions or training centers.
 
-## First Part YouTube link - [React JS University Website Project | Tutorial for Beginners - PART 1](https://youtu.be/v5GmKHncNB8?si=rkyGaFEDfJx_IFIr)
-## Second Part YouTube link - [React JS Project University Website Tutorial With Bootstrap 5 From Scratch - PART 2](https://youtu.be/KnncqbOLwo4?si=H_0O4W_56iP5pKeJ)
+The project is designed with a modern and clean UI, easy navigation, and optimized for different devices.
+It also uses Google Fonts and free stock images to give a professional look.
 
-### Demo/live preview website: [https://ionut-cora.github.io/react-university-website/](https://ionut-cora.github.io/react-university-website/)
+🚀 Features
+Responsive Design – Works on mobile, tablet, and desktop
 
-<img src="React JS University Website Img.jpg" alt="React JS University Website" />
+Multi-Page Layout – Home, About, Courses, Blog, Contact
 
-## For this website I used:
-- [React JS](https://react.dev/)
-- [Visual Studio Code Editor](https://code.visualstudio.com/)
-- [Bootstrap 5](https://getbootstrap.com/) - CSS Framework
-- [Google Fonts](https://fonts.google.com/) - Montserrat Family Font
-- [Unsplash](https://unsplash.com/) - Free Images
+Bootstrap 5 Styling – Clean and consistent UI
 
-# Getting Started with Create React App
+Google Fonts Integration – Montserrat font family for a modern look
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Free Stock Images – Professional visuals from Unsplash
 
-## Available Scripts
+Smooth Navigation – User-friendly and fast
 
-In the project directory, you can run:
+📂 Project Structure
+src/pages – Contains main pages (Home, About, Courses, Blog, Contact)
 
-### `npm start`
+src/components – Reusable components like Navbar, Footer, and Sections
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+src/utils/images – Stores images used in the website
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🛠️ Technologies Used
+React JS
 
-### `npm test`
+Bootstrap 5
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Google Fonts
 
-### `npm run build`
+Unsplash for images
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+💻 How to Run This Project
+Clone the repository
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+bash
+Copy
+Edit
+git clone https://github.com/your-username/SRI-university.git
+Go to the project folder
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+bash
+Copy
+Edit
+cd SRI-university
+Install dependencies
 
-### `npm run eject`
+bash
+Copy
+Edit
+npm install
+Run the project locally
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+bash
+Copy
+Edit
+npm start
+Open in browser
+Visit http://localhost:3000
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
